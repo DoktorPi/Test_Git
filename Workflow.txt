@@ -1,4 +1,4 @@
-Es soll eine neue Software programmiert werden,
+Es soll eine neue App programmiert werden,
 welche trackt, wann wo welche Festivals in Sachsen stattfinden.
 
 Der geplante Workflow ist wie folgt:
