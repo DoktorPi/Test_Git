@@ -1,0 +1,9 @@
+Es soll eine neue Software programmiert werden,
+welche trackt wann wo welche Festivals in Sachsen stattfiden.
+
+Der geplante Workflwo ist wie folgt:
+
+1. Programmieren
+2. Promoten
+3. Teuer verkaufen
+4. Yacht kaufen
