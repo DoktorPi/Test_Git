@@ -1,7 +1,7 @@
 Es soll eine neue Software programmiert werden,
-welche trackt wann wo welche Festivals in Sachsen stattfiden.
+welche trackt, wann wo welche Festivals in Sachsen stattfinden.
 
-Der geplante Workflwo ist wie folgt:
+Der geplante Workflow ist wie folgt:
 
 0. Leute einstellen
 1. Programmieren
